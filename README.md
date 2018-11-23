@@ -1,6 +1,7 @@
 # markdown-test
 
 - <a href="#테스트1">테스트1</a>
+- <a href="./test2.md">./test2.md</a>
 
 ---  
 
